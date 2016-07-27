@@ -24,9 +24,9 @@ android {
 
         googlePlayRelease {
             storeFile file("/keystore/myflickr_key.jks")
-            keyAlias 'myflickr2016'
-            keyPassword 'myflickr2016'
-            storePassword 'myflickr2016'
+            keyAlias 'your_keyalias'
+            keyPassword 'your_keypassword'
+            storePassword 'your_store_password'
         }
     }
 
